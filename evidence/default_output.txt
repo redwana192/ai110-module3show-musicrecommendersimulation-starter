@@ -1,0 +1,14 @@
+Loaded songs: 18
+
+Profile: High-Energy Pop
+Preferences: genre=pop, mood=happy, energy=0.8
+1. Sunrise City — Neon Echo | score=3.98
+   Because: genre match (+2.00); mood match (+1.00); energy 0.82 vs target 0.80 (+0.98)
+2. Gym Hero — Max Pulse | score=2.87
+   Because: genre match (+2.00); mood mismatch (+0.00); energy 0.93 vs target 0.80 (+0.87)
+3. Paper Hearts — June Signal | score=2.75
+   Because: genre match (+2.00); mood mismatch (+0.00); energy 0.55 vs target 0.80 (+0.75)
+4. Rooftop Lights — Indigo Parade | score=1.96
+   Because: genre mismatch (+0.00); mood match (+1.00); energy 0.76 vs target 0.80 (+0.96)
+5. Havana Morning — Isla Clara | score=0.98
+   Because: genre mismatch (+0.00); mood mismatch (+0.00); energy 0.78 vs target 0.80 (+0.98)
